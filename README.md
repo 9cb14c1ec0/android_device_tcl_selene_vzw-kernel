@@ -6,6 +6,7 @@ selene_vzw), firmware TP1A.220624.014 4PEN. Used by device/tcl/selene_vzw
 
 | File | Source |
 |---|---|
+| `boot.img` | stock `boot_a`, AVB footer stripped (first 25022464 bytes); header unchanged (no OS version/patch level) |
 | `Image.lz4` | kernel of stock `boot_a` (GKI android13-5.15, `unpack_bootimg`) |
 | `dtb/mt6835.dtb` | dtb of stock `vendor_boot_a` |
 | `dtbo.img` | stock `dtbo_a`, AVB footer stripped (first 134912 bytes) |
