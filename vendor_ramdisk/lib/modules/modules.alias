@@ -204,6 +204,8 @@ alias of:N*T*Cmediatek,mt8192-m4u mtk_iommu
 alias of:N*T*Cmediatek,mt8192-m4uC* mtk_iommu
 alias of:N*T*Cmediatek,charger,pe2 mtk_pep20
 alias of:N*T*Cmediatek,charger,pe2C* mtk_pep20
+alias of:N*T*Cchipone-tddi-csot-icnl9951c selene_csot_icnl9951c_tp
+alias of:N*T*Cchipone-tddi-csot-icnl9951cC* selene_csot_icnl9951c_tp
 alias of:N*T*Cmediatek,mt2701-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt2701-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6595-disp-pwm pwm_mtk_disp
@@ -1148,6 +1150,8 @@ alias of:N*T*Cselene_chipone_icnl9951c_vdo,90hzC* panel_selene_chipone_icnl9951c
 alias i2c:ps5169 ps5169
 alias of:N*T*Cparade,ps5169 ps5169
 alias of:N*T*Cparade,ps5169C* ps5169
+alias of:N*T*Cselene_csot_icnl9951c_vdo,90hz panel_selene_csot_icnl9951c_800x1340_dsi_vdo
+alias of:N*T*Cselene_csot_icnl9951c_vdo,90hzC* panel_selene_csot_icnl9951c_800x1340_dsi_vdo
 alias of:N*T*Cselene_chipone_icnl9951r_vdo,90hz panel_selene_chipone_icnl9951r_800x1340_dsi_vdo
 alias of:N*T*Cselene_chipone_icnl9951r_vdo,90hzC* panel_selene_chipone_icnl9951r_800x1340_dsi_vdo
 alias of:N*T*Cmediatek,mt6873-mdpm mtk_mdpm

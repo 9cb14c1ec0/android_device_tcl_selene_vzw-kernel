@@ -86,6 +86,7 @@ panel-truly-td4330-vdo.ko
 panel-truly-nt35595-cmd.ko
 panel-selene-tdt-nt36523d-800x1340-dsi-vdo.ko
 panel-selene-chipone-icnl9951r-800x1340-dsi-vdo.ko
+panel-selene-csot-icnl9951c-800x1340-dsi-vdo.ko
 mediatek-drm-gateic.ko
 mediatek-drm-panel-drv.ko
 mediatek-drm.ko

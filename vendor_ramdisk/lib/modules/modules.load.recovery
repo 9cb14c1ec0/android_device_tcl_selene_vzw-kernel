@@ -88,6 +88,7 @@ panel-truly-td4330-vdo.ko
 panel-truly-nt35595-cmd.ko
 panel-selene-tdt-nt36523d-800x1340-dsi-vdo.ko
 panel-selene-chipone-icnl9951r-800x1340-dsi-vdo.ko
+panel-selene-csot-icnl9951c-800x1340-dsi-vdo.ko
 mediatek-drm-gateic.ko
 mediatek-drm-panel-drv.ko
 mediatek-drm.ko
@@ -171,6 +172,7 @@ reset-ti-syscon.ko
 selene_novatek_tp.ko
 selene_icnl9951c_tp.ko
 selene_chipone_tp.ko
+selene_csot_icnl9951c_tp.ko
 powerhal_cpu_ctrl.ko
 tps65132_aw37501_drv.ko
 mtk-cqdma.ko
